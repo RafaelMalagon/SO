@@ -1,2 +1,0 @@
-prioridad.Procesos
-prioridad.nodo

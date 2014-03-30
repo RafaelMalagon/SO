@@ -1,6 +1,0 @@
-INDEX VERSION 1.126+C:\xampp\htdocs\Dropbox\UD\2013-3\SO\.metadata\.plugins\org.eclipse.jdt.core
-3245952837.index
-3138770197.index
-149251999.index
-2170739116.index
-2298930795.index

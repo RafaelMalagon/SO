@@ -1,2 +1,0 @@
-prioridadDespl.nodo
-prioridadDespl.Procesos
